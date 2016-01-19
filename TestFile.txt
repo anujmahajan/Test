@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello its me
 lets check the connectivity
 =======
 Hello its me
 >>>>>>> parent of 6e91895... NextCommit
+=======
+Hello its me I am Anuj
+lets see
+again
+>>>>>>> parent of 3218663... Revert "NextCommit"
